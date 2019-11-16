@@ -23,8 +23,4 @@
 
 - if you want to detailed comparison between 4) and 5), and explanation of 6) visit [my blog](https://spellonyou.github.io/)
 
-### python
-
-- Data crawling practice
-- Not using selenium, Phantom, and so on. only requests.(time)
-- Regression
+### swift
